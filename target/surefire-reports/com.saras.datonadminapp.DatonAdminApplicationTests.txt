@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.saras.datonadminapp.DatonAdminApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 3.147 s <<< FAILURE! - in com.saras.datonadminapp.DatonAdminApplicationTests
+com.saras.datonadminapp.DatonAdminApplicationTests  Time elapsed: 3.143 s  <<< ERROR!
+java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test
+
